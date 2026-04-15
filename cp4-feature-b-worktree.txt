@@ -1,0 +1,11 @@
+##Comando usado
+ git worktree add -b feature-b ../wt-feature-b main
+
+##La salida
+/home/artur/Documentos/actividad-6-13-git-worktree  f7c6dba [main]
+/home/artur/Documentos/wt-feature-a                 afd3317 [feature-a]
+/home/artur/Documentos/wt-feature-b                 49c3a6d [feature-b]
+
+##EXPLICACIÓN
+git branch solo crea la rama.
+git worktree add -b crea la rama y además te da otra carpeta para trabajar en ella.
