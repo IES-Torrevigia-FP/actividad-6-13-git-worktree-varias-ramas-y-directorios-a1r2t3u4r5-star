@@ -1,5 +1,0 @@
-/home/artur/Documentos/actividad-6-13-git-worktree  f7c6dba [main]
-/home/artur/Documentos/wt-feature-a                 afd3317 [feature-a]
-
-##EXPLICACIÓN
-En main hice un cambio en el README y en feature-a añadí detalles de la funcionalidad A. Cada carpeta trabaja en una rama distinta, pero comparten el mismo historial.
