@@ -1,9 +1,0 @@
-##git log oneline all
-6b9d030 Añade funcionalidad A
-b1b29df Commit inicial en main
-2a173ad add deadline
-deb1ad7 Initial commit
-
-##git branch
-  feature-a
-* main
