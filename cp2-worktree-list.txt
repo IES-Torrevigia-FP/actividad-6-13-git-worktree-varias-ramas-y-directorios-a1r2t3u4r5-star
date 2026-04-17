@@ -1,0 +1,5 @@
+/home/artur/Documentos/actividad-6-13-git-worktree-varias-ramas-y-directorios-a1r2t3u4r5-star  1515b65 [main]
+/home/artur/Documentos/wt-feature-a                                                            aa6a5f5 [feature-a]
+
+Explicación:
+La estructura muestra el repositorio principal vinculado a la rama "main", y un nuevo directorio paralelo llamado "wt-feature-a" que funciona como un árbol de trabajo secundario vinculado a la rama "feature-a". Ambos comparten el mismo historial y directorio .git base.

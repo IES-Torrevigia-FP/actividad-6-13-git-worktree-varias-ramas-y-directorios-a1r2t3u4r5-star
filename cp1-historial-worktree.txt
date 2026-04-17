@@ -1,0 +1,17 @@
+aa6a5f5 Añade funcionalidad A
+1515b65 Delete reflexion-6-13.md
+7fc4ed8 Delete cp5-remove-prune.txt
+8321f0a Delete cp4-feature-b-worktree.txt
+c002c9e Delete cp3-trabajo-paralelo.txt
+4fb7df8 Delete cp2-worktree-list.txt
+9753c6e Delete cp1-historial-worktree.txt
+3981a3b Delete README1.md
+7484569 Añade archivo restante
+b1d2711 Tarea completada
+f7c6dba Actualiza README en main
+b1b29df Commit inicial en main
+2a173ad add deadline
+deb1ad7 Initial commit
+
+  feature-a
+* main

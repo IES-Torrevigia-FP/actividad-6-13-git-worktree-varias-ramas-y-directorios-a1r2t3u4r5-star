@@ -1,0 +1,10 @@
+Comando utilizado:
+git worktree add -b feature-b ../wt-feature-b main
+
+Salida de git worktree list:
+/home/artur/Documentos/actividad-6-13-git-worktree-varias-ramas-y-directorios-a1r2t3u4r5-star  31b92d0 [main]
+/home/artur/Documentos/wt-feature-a                                                            11cbdf9 [feature-a]
+/home/artur/Documentos/wt-feature-b                                                            a31514c [feature-b]
+
+Diferencia:
+Crear una rama con `git branch` simplemente crea la referencia dentro del mismo directorio de trabajo (.git). Por otro lado, `git worktree add -b` no solo crea una nueva rama, sino que también la despliega (hace checkout) automáticamente en un directorio de trabajo completamente nuevo y separado, permitiendo trabajar en ella en paralelo con la rama actual.
